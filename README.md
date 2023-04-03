@@ -17,6 +17,7 @@
 
 ## Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddi4z&show_icons=true&theme=react)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddi4z&hide_progress=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ddi4z&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!---
 ddi4z/ddi4z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
