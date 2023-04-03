@@ -16,7 +16,7 @@
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ## Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddi4z&show_icons=true&theme=react)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddi4z&show_icons=true&theme=react-dark)
 
 <!---
 ddi4z/ddi4z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
