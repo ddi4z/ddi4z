@@ -23,7 +23,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ddi4z&show_icons=true&theme=react" alt="Stats">
 </div>
 
+## Projects:
+<div>
+  <a href="https://github.com/ddi4z/portfolio"><img style="height: 150px;"src="https://github-readme-stats.vercel.app/api/pin/?username=ddi4z&repo=portfolio&theme=react" alt="portfolio"></a>
+    <a href="https://github.com/ddi4z/Snake"><img style="height: 150px;" src="https://github-readme-stats.vercel.app/api/pin/?username=ddi4z&repo=Snake&theme=react" alt="portfolio"></a>
+    <a href="https://github.com/ddi4z/pokemon-memory-game"><img style="height: 150px;" src="https://github-readme-stats.vercel.app/api/pin/?username=ddi4z&repo=pokemon-memory-game&theme=react" alt="portfolio"></a>
+</div>
+
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ddi4z&theme=react-dark)
+
 
 ## Profiles:
 [![Linkedin profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danieldmore/)
