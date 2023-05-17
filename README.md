@@ -23,7 +23,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ddi4z&show_icons=true&theme=react" alt="Stats">
 </div>
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ddi4z&theme=react-dark)
+
 
 ## Projects:
 
