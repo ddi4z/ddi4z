@@ -18,10 +18,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-## Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ddi4z&show_icons=true&theme=react" alt="Stats">
-</div>
+
 
 
 
