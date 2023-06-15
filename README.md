@@ -35,7 +35,7 @@
   </a> &nbsp;&nbsp;
 
   <a href="https://github.com/ddi4z" target="_blank">
-    <img align="center" alt="Github logo" height="50" width="50" src="Assets/github.svg"/>
+    <img align="center" alt="Github logo" height="50" width="50" src="Assets/github.png"/>
   </a> &nbsp;&nbsp;
 
   <a href="https://discordapp.com/users/863839193208979516" target="_blank">
