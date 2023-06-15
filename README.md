@@ -28,7 +28,8 @@
 
 
 
-## Profiles:
+<div align="center">
+    <h2> <strong> Profiles </strong></h2>
   <a href="https://www.linkedin.com/in/danieldmore/" target="_blank">
     <img align="center" alt="linkedin logo" height="50" width="50" src="Assets/linkedin.svg"/>
   </a> &nbsp;&nbsp;
@@ -40,7 +41,7 @@
   <a href="https://discordapp.com/users/863839193208979516" target="_blank">
     <img align="center" alt="Discord logo" height="50" width="50" src="Assets/discord.svg"/>
   </a> &nbsp;&nbsp;
-  
+</div> 
 
 
 
