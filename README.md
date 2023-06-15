@@ -7,18 +7,13 @@
 
 
 
-## Skills:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+<div align="center">
+  <h2> <strong> Skills </strong></h2>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,linux,html,css,js" alt="skill"> <br> 
+  <h2> <strong> Plan to Learn </strong></h2>
+  <img src="https://skillicons.dev/icons?i=react,django" alt="skills planning to learn logos">
+</div>
 
 
 
@@ -34,8 +29,21 @@
 
 
 ## Profiles:
-[![Linkedin profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danieldmore/)
-[![Github profile](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ddi4z)
+  <a href="https://www.linkedin.com/in/danieldmore/" target="_blank">
+    <img align="center" alt="linkedin logo" height="50" width="50" src="Assests/linkedin.svg"/>
+  </a> &nbsp;&nbsp;
+
+  <a href="https://github.com/ddi4z" target="_blank">
+    <img align="center" alt="Github logo" height="50" width="50" src="Assests/github.svg"/>
+  </a> &nbsp;&nbsp;
+
+  <a href="https://discordapp.com/users/863839193208979516" target="_blank">
+    <img align="center" alt="Discord logo" height="50" width="50" src="Assests/discord.svg"/>
+  </a> &nbsp;&nbsp;
+  
+
+
+
 <!---
 ddi4z/ddi4z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
