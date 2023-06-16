@@ -17,13 +17,7 @@
 
 
 
-## Projects:
 
-<div align="center" >
-  <a href="https://github.com/ddi4z/portfolio"><img style="height: 150px;"src="https://github-readme-stats.vercel.app/api/pin/?username=ddi4z&repo=portfolio&theme=react" alt="portfolio"></a>
-    <a href="https://github.com/ddi4z/Snake"><img style="height: 150px;" src="https://github-readme-stats.vercel.app/api/pin/?username=ddi4z&repo=Snake&theme=react" alt="portfolio"></a>
-    <a href="https://github.com/ddi4z/pokemon-memory-game"><img style="height: 150px;" src="https://github-readme-stats.vercel.app/api/pin/?username=ddi4z&repo=pokemon-memory-game&theme=react" alt="portfolio"></a>
-</div>
 
 
 
