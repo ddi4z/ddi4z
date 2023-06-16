@@ -1,6 +1,6 @@
 ## About me
 - 👋 Hi, I’m @ddi4z
-- 👀 I’m interested in learning everything related to software development.
+- 👀 I’m interested in learning everything related to software development and algorithm design.
 - 🌱 I’m currently learning technologies related to backend and frontend development such as react and django.
 - 💞️ I’m looking to collaborate on open source projects.
 
