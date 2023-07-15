@@ -24,7 +24,7 @@
 
 <div align="center">
     <h2> <strong> Profiles </strong></h2>
-  <a href="https://www.linkedin.com/in/danieldmore/" target="_blank">
+  <a href="https://www.linkedin.com/in/ddi4z/" target="_blank">
     <img align="center" alt="linkedin logo" height="50" width="50" src="Assets/linkedin.svg"/>
   </a> &nbsp;&nbsp;
 
