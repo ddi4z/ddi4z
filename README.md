@@ -1,13 +1,11 @@
-
-
+## About me
+- 👋 Hi, I’m @ddi4z.
+- 👀 I’m interested in learning everything related to software development and algorithm design.
+- 🌱 I’m currently learning web development and DSA.
+- 💞️ I’m looking to collaborate on open source projects.
 
 <div align="center">
-  <h2><strong>About me</strong></h2>
 
-    👋 Hi, I’m @ddi4z
-    👀 I’m interested in learning everything related to software development and algorithm design.
-    🌱 I’m currently learning web development and DSA.
-    💞️ I’m looking to collaborate on open source projects
 
   <h2><strong>Skills</strong></h2>
   <img src="https://skillicons.dev/icons?i=python,java,cpp,linux,html,css,js,react" alt="skill"> <br> 
