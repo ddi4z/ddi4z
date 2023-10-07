@@ -10,7 +10,7 @@
 
 <h2><strong>Skills</strong></h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,bootstrap,js,react,angular,spring" alt="Skills"> <br> 
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,bootstrap,js,ts,react,angular,spring" alt="Skills"> <br> 
 </div>
 
 <h2><strong>Profiles</strong></h2>
