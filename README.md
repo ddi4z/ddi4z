@@ -1,31 +1,29 @@
-## About me
-- 👋 Hi, I’m @ddi4z.
-- 👀 I’m interested in learning everything related to software development and algorithm design.
-- 🌱 I’m currently learning web development and DSA.
-- 💞️ I’m looking to collaborate on open source projects.
-
 <div align="center">
+  <img alt="Profile Banner" src="Assets/banner.png"/>
+</div>
 
+## About Me
+- 👋 Hi, I'm @ddi4z.
+- 👀 I'm passionate about learning everything related to software development and algorithm design.
+- 🌱 Currently, I'm diving into web development and sharpening my skills in Data Structures and Algorithms (DSA).
+- 💞️ I'm eager to collaborate on open-source projects.
 
-  <h2><strong>Skills</strong></h2>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,linux,html,css,js,react" alt="skill"> <br> 
+<h2><strong>Skills</strong></h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,bootstrap,js,react,angular,spring" alt="Skills"> <br> 
+</div>
 
-  <h2><strong>Profiles</strong></h2>
+<h2><strong>Profiles</strong></h2>
+<div align="center">
   <a href="https://www.linkedin.com/in/ddi4z/" target="_blank">
-    <img align="center" alt="linkedin logo" height="50" width="50" src="Assets/linkedin.svg"/>
+    <img alt="LinkedIn Logo" height="50" width="50" src="Assets/linkedin.svg"/>
   </a> &nbsp;&nbsp;
 
   <a href="https://github.com/ddi4z" target="_blank">
-    <img align="center" alt="Github logo" height="50" width="50" src="Assets/github.png"/>
+    <img alt="GitHub Logo" height="50" width="50" src="Assets/github.png"/>
   </a> &nbsp;&nbsp;
 
   <a href="https://discordapp.com/users/863839193208979516" target="_blank">
-    <img align="center" alt="Discord logo" height="50" width="50" src="Assets/discord.svg"/>
+    <img alt="Discord Logo" height="50" width="50" src="Assets/discord.svg"/>
   </a> &nbsp;&nbsp;
-
 </div>
-
-<!---
-ddi4z/ddi4z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
