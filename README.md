@@ -20,11 +20,11 @@
     <img alt="LinkedIn Logo" height="50" width="50" src="Assets/linkedin.svg"/>
   </a> &nbsp;&nbsp;
 
-  <a href="https://github.com/ddi4z" target="_blank">
-    <img alt="GitHub Logo" height="50" width="50" src="Assets/github.png"/>
-  </a> &nbsp;&nbsp;
-
   <a href="https://discordapp.com/users/863839193208979516" target="_blank">
     <img alt="Discord Logo" height="50" width="50" src="Assets/discord.svg"/>
+  </a> &nbsp;&nbsp;
+
+  <a href="https://twitter.com/DiazDMore" target="_blank">
+    <img alt="GitHub Logo" height="50" width="50" src="Assets/twitter.svg"/>
   </a> &nbsp;&nbsp;
 </div>
