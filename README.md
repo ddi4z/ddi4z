@@ -24,7 +24,7 @@
     <img alt="Discord Logo" height="50" width="50" src="Assets/discord.svg"/>
   </a> &nbsp;&nbsp;
 
-  <a href="https://twitter.com/DiazDMore" target="_blank">
+  <a href="https://twitter.com/Dd14zDiaz" target="_blank">
     <img alt="GitHub Logo" height="50" width="50" src="Assets/twitter.svg"/>
   </a> &nbsp;&nbsp;
 </div>
