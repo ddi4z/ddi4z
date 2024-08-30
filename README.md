@@ -25,6 +25,6 @@
   </a> &nbsp;&nbsp;
 
   <a href="https://twitter.com/dd14zm" target="_blank">
-    <img alt="GitHub Logo" height="50" width="50" src="Assets/twitter.svg"/>
+    <img alt="X Logo" height="50" width="50" src="Assets/x.svg"/>
   </a> &nbsp;&nbsp;
 </div>
