@@ -8,10 +8,11 @@
 - 👀 I'm passionate about learning everything related to software development and algorithm design.
 - 🌱 Currently, I'm diving into web development and sharpening my skills in Data Structures and Algorithms (DSA).
 - 💞️ I'm eager to collaborate on open-source projects.
+- 💪 I enjoy competitive programming. I participated in the ICPC competition at both the national and regional levels, achieving 29th place in both.
 
 <h2><strong>🚀 Skills</strong></h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,bootstrap,js,ts,postgres,react,next,angular,tailwind,nest,graphql" alt="Skills"> <br> 
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,bootstrap,js,ts,postgres,react,next,tailwind,nest,graphql" alt="Skills"> <br> 
 </div>
 
 <h2><strong>📫 Contact Me</strong></h2>
