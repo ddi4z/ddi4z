@@ -3,12 +3,14 @@
 </div>
 
 ## 👩🏻‍💻 About Me
-- 👋 Hi, I'm @ddi4z.
-- 🔭 I’m currently working on [Open Source Uniandes](https://github.com/Open-Source-Uniandes)
-- 👀 I'm passionate about learning everything related to software development and algorithm design.
-- 🌱 Currently, I'm diving into web development and sharpening my skills in Data Structures and Algorithms (DSA).
-- 💞️ I'm eager to collaborate on open-source projects.
-- 💪 I enjoy competitive programming. I participated in the ICPC competition at both the national and regional levels, achieving 29th place in both.
+- 👋 Hi, I'm @ddi4z.  
+- 💻 I'm a final-year Systems & Computer Engineering student at Uniandes.  
+- 🌎 I’ll be joining Microsoft as a Software Engineering Intern during the first semester of 2026.  
+- 🛠️ I’m currently maintaining **Mi Horario Uniandes**, an open-source project under **Open Source Uniandes** that helps students efficiently plan their university schedules.  
+- 📚 I'm passionate about software engineering, data structures, and algorithm design.  
+- 💞️ I’m always eager to collaborate on open-source projects that make an impact.  
+- 💪 I also enjoy competitive programming — I’ve participated in the **ICPC** at both national and regional levels, achieving **29th place** in both.
+
 
 <h2><strong>🚀 Skills</strong></h2>
 <div align="center">
