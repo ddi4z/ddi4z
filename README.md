@@ -14,7 +14,7 @@
 
 <h2><strong>🚀 Skills</strong></h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,bootstrap,js,ts,postgres,react,next,tailwind,nest,graphql" alt="Skills"> <br> 
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,go,html,css,js,ts,postgres,react,next,tailwind,nest" alt="Skills"> <br> 
 </div>
 
 <h2><strong>📫 Contact Me</strong></h2>
