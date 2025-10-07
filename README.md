@@ -9,7 +9,7 @@
 - 🛠️ I’m currently maintaining **Mi Horario Uniandes**, an open-source project under **Open Source Uniandes** that helps students efficiently plan their university schedules.  
 - 📚 I'm passionate about software engineering, data structures, and algorithm design.  
 - 💞️ I’m always eager to collaborate on open-source projects that make an impact.  
-- 💪 I also enjoy competitive programming — I’ve participated in the **ICPC** at both national and regional levels, achieving **29th place** in both.
+- 💪 I also enjoy competitive programming, I’ve participated in the **ICPC** at both national and regional levels, achieving **29th place** in both.
 
 
 <h2><strong>🚀 Skills</strong></h2>
