@@ -4,8 +4,8 @@
 
 ## 👩🏻‍💻 About Me
 - 👋 Hi, I'm @ddi4z.  
-- 💻 I'm a final-year Systems & Computer Engineering student at Uniandes.  
-- 🌎 I’ll be joining Microsoft as a Software Engineering Intern during the first semester of 2026.  
+- 💻 I’m a Systems & Computer Engineer from Uniandes.
+- 🌎 I’m currently working as a Software Engineering Intern at Microsoft.
 - 🛠️ I’m currently maintaining **Mi Horario Uniandes**, an open-source project under **Open Source Uniandes** that helps students efficiently plan their university schedules.  
 - 📚 I'm passionate about software engineering, data structures, and algorithm design.  
 - 💞️ I’m always eager to collaborate on open-source projects that make an impact.  
