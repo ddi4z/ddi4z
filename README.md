@@ -4,7 +4,7 @@
 
 ## 👩🏻‍💻 About Me
 - 👋 Hi, I'm @ddi4z.  
-- 💻 I’m a Systems & Computer Engineer from Uniandes.
+- 💻 I’m a Systems and Computing Engineer from Uniandes.
 - 🌎 I’m currently working as a Software Engineering Intern at Microsoft.
 - 🛠️ I’m currently maintaining **Mi Horario Uniandes**, an open-source project under **Open Source Uniandes** that helps students efficiently plan their university schedules.  
 - 📚 I'm passionate about software engineering, data structures, and algorithm design.  
