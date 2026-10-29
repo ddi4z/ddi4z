@@ -10,6 +10,7 @@
 - 📚 I'm passionate about software engineering, data structures, and algorithm design.  
 - 💞️ I’m always eager to collaborate on open-source projects that make an impact.  
 - 💪 I enjoy competitive programming, I’ve participated in the **ICPC** at both national and regional levels.
+- 🏅 I ranked 5th out of 101 students in my graduating class.
 
 
 <h2><strong>🚀 Skills</strong></h2>
